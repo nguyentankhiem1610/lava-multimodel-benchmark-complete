@@ -59,7 +59,7 @@ outputs/experiments/<model_key>/seed_42/
 Khuyến nghị Python 3.11 và TensorFlow 2.15.
 
 ```bat
-cd D:\antt_new02\lava-multimodel-benchmark
+cd D:\lava-multimodel-benchmark-complete\lava-multimodel-benchmark
 py -3.11 -m venv .venv
 .venv\Scripts\activate
 python -m pip install --upgrade pip
